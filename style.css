@@ -1,0 +1,42 @@
+* {
+
+}
+
+/*style for body*/
+body {
+	background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRwaQm9ji0OBgjjcc6E_mojG4aBp0HrxmU3Ug&s);
+	background-size: 100%;
+	font-family: "Sour Gummy", serif;
+	font-optical-sizing: auto;
+ 	font-weight: <weight>;
+	font-style: normal;
+	font-variation-settings:
+    "wdth" 100;
+}
+
+h1 {
+	text-align: center;
+	background-color:#FFFFC5;
+}
+
+/*style for image*/
+img {
+	width: 100px;
+}
+
+/*style for anchor*/
+a {
+	color: #45416b;
+}
+
+/*style for anchor in table*/
+.ayy {
+	color: white;
+}
+
+/*style for footer*/
+.footer {
+	background-color: #FFFFC5;
+	text-align: center;
+	padding: 7.5px;
+}
